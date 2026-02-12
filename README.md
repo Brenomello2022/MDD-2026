@@ -1,1 +1,1 @@
-# MDD-2026
+Repositório da disciplina de Ciência de Dados e Mineração de Dados 2026.
