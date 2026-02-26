@@ -1,1 +1,1 @@
-Atividades relacionados ao roteiro 01.
+Atividades relacionadas ao roteiro 01.
